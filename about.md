@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+information!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+흠 뭐하지
 ### Contact me
 
 [rladpwls1212@naver.com](mailto:rladpwls1212@naver.com)
