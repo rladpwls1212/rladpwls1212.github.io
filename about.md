@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-information!
+동명대 재학중
 
 ### More Information
 
-흠 뭐하지
+Nothing
 ### Contact me
 
 [rladpwls1212@naver.com](mailto:rladpwls1212@naver.com)
